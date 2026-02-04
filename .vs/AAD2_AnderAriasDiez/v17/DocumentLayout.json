@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\AccesoADatos\\AAD2_AnderAriasDiez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{695D67D6-9217-4DAD-906F-FF1F89B04CCA}|AAD2_AnderAriasDiez\\AAD2_AnderAriasDiez.vbproj|c:\\projects\\accesoadatos\\aad2_anderariasdiez\\aad2_anderariasdiez\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{695D67D6-9217-4DAD-906F-FF1F89B04CCA}|AAD2_AnderAriasDiez\\AAD2_AnderAriasDiez.vbproj|solutionrelative:aad2_anderariasdiez\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Projects\\AccesoADatos\\AAD2_AnderAriasDiez\\AAD2_AnderAriasDiez\\Form1.vb",
+              "RelativeDocumentMoniker": "AAD2_AnderAriasDiez\\Form1.vb",
+              "ToolTip": "C:\\Projects\\AccesoADatos\\AAD2_AnderAriasDiez\\AAD2_AnderAriasDiez\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "AAD2_AnderAriasDiez\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T16:28:51.123Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

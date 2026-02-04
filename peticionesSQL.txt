@@ -1,0 +1,23 @@
+USE CINE;
+GO
+
+CREATE TABLE PELICULA (
+    Titulo NVARCHAR(200) NOT NULL PRIMARY KEY,
+    AnioEstreno INT,
+    Duracion INT,
+    Sinopsis NVARCHAR(MAX),
+    PosterUrl NVARCHAR(500),
+    EntradasDisponibles INT
+);
+GO
+
+INSERT INTO PELICULA (Titulo, AnioEstreno, Duracion, Sinopsis, PosterUrl, EntradasDisponibles) VALUES ( 'Song Sung Blue', 2025, 131, 'Basada en una historia real, narra la historia de dos músicos de poca fortuna (Hugh Jackman y Kate Hudson) que se lanzan con ilusión a formar una banda tributo a Neil Diamond, demostrando que nunca es demasiado tarde para encontrar el amor y cumplir tus sueños.', 'songsungblue', 120 ); 
+
+INSERT INTO PELICULA (Titulo, AnioEstreno, Duracion, Sinopsis, PosterUrl, EntradasDisponibles) VALUES ( 'Rondallas', 2025, 112, 'Dos años después del trágico naufragio de un barco pesquero que sacudió a un pequeño pueblo marinero gallego, los habitantes del pueblo deciden que ya es hora de recuperar la ilusión y dejar el luto atrás. Por ello vuelven a unirse para poner en marcha la rondalla, una agrupación de música tradicional en la que participan desde niños hasta ancianos, con la intención de competir en un concurso contra los pueblos vecinos, pero sobre todo de empezar a mirar hacia delante de nuevo.', 'rondallas', 80 ); 
+
+INSERT INTO PELICULA (Titulo, AnioEstreno, Duracion, Sinopsis, PosterUrl, EntradasDisponibles) VALUES ( 'Hamnet', 2025, 125, 'La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida. Una historia con el telón de fondo de la creación de una de las más conocidas e importantes obras de Shakespeare, Hamlet.', 'hamnet', 150 ); 
+
+INSERT INTO PELICULA (Titulo, AnioEstreno, Duracion, Sinopsis, PosterUrl, EntradasDisponibles) VALUES ( 'El Agente Secreto', 2025, 158, 'En 1977, durante la dictadura militar brasileña, Marcelo, un profesor que huye de un pasado turbulento, regresa huyendo a la ciudad de Recife, donde espera construir una nueva vida y reencontrarse con su hijo. Pero pronto se da cuenta de que la ciudad está lejos de ser el refugio que busca, que las fuerzas gubernamentales le persiguen y las amenazas de muerte se ciernen sobre él.', 'elagentesecreto', 75 ); 
+
+INSERT INTO PELICULA (Titulo, AnioEstreno, Duracion, Sinopsis, PosterUrl, EntradasDisponibles) VALUES ( 'La Asistenta', 2025, 131, 'Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde...', 'laasistenta', 130 );
+	
