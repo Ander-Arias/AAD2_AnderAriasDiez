@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Projects\\AccesoADatos\\AAD2_AnderAriasDiez\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{695D67D6-9217-4DAD-906F-FF1F89B04CCA}|AAD2_AnderAriasDiez\\AAD2_AnderAriasDiez.vbproj|c:\\projects\\accesoadatos\\aad2_anderariasdiez\\aad2_anderariasdiez\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{695D67D6-9217-4DAD-906F-FF1F89B04CCA}|AAD2_AnderAriasDiez\\AAD2_AnderAriasDiez.vbproj|solutionrelative:aad2_anderariasdiez\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{695D67D6-9217-4DAD-906F-FF1F89B04CCA}|AAD2_AnderAriasDiez\\AAD2_AnderAriasDiez.vbproj|c:\\projects\\accesoadatos\\aad2_anderariasdiez\\aad2_anderariasdiez\\ventaentradas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{695D67D6-9217-4DAD-906F-FF1F89B04CCA}|AAD2_AnderAriasDiez\\AAD2_AnderAriasDiez.vbproj|solutionrelative:aad2_anderariasdiez\\ventaentradas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,13 +23,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Projects\\AccesoADatos\\AAD2_AnderAriasDiez\\AAD2_AnderAriasDiez\\Form1.vb",
-              "RelativeDocumentMoniker": "AAD2_AnderAriasDiez\\Form1.vb",
-              "ToolTip": "C:\\Projects\\AccesoADatos\\AAD2_AnderAriasDiez\\AAD2_AnderAriasDiez\\Form1.vb [Dise\u00F1o]",
-              "RelativeToolTip": "AAD2_AnderAriasDiez\\Form1.vb [Dise\u00F1o]",
+              "Title": "VentaEntradas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Projects\\AccesoADatos\\AAD2_AnderAriasDiez\\AAD2_AnderAriasDiez\\VentaEntradas.vb",
+              "RelativeDocumentMoniker": "AAD2_AnderAriasDiez\\VentaEntradas.vb",
+              "ToolTip": "C:\\Projects\\AccesoADatos\\AAD2_AnderAriasDiez\\AAD2_AnderAriasDiez\\VentaEntradas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "AAD2_AnderAriasDiez\\VentaEntradas.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-02-04T16:28:51.123Z",
+              "WhenOpened": "2026-02-04T17:07:07.43Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
